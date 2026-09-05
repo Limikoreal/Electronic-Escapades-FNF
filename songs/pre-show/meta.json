@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#7D71A7",
+	"opponentModeAllowed": true,
+	"icon": "zariaicons",
+	"difficulties": [
+		"normal",
+		"electric"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Pre-Show",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

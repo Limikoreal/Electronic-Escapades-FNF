@@ -1,0 +1,6 @@
+# THIS FILE ISNT NECESSARY,
+# BUT YOU CAN USE IT TO SORT WEEKS
+
+week-katelynnkai
+week-after
+week-weekend

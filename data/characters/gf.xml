@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gfELE" camx="-200" camy="-100" icon="gf">
+	<anim name="idle" anim="gf_idleplayer"/>
+	<anim name="transition" anim="gf_idletransopp"/>
+	<anim name="idle-alt" anim="gf_idleopp"/>
+	<anim name="transition-alt" anim="gf_idletransplayar"/>
+	<anim name="cheer" anim="cheer" x="80" y="8"/>
+	<anim name="miss" anim="miss" x="5"/>
+</character>

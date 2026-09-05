@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="electric.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Electricdiff0000" x="0" y="0" width="500" height="200"/>
+	<SubTexture name="Electricdiff0001" x="0" y="0" width="500" height="200"/>
+	<SubTexture name="Electricdiff0002" x="500" y="0" width="500" height="200"/>
+	<SubTexture name="Electricdiff0003" x="500" y="0" width="500" height="200"/>
+	<SubTexture name="Electricdiff0004" x="0" y="200" width="500" height="200"/>
+	<SubTexture name="Electricdiff0005" x="0" y="200" width="500" height="200"/>
+</TextureAtlas>

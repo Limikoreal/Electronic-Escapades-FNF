@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="joey" flipX="true" icon="character" color="#000000">
+	<anim name="idle" anim="Pico Idle Dance" x="20" y="-200"/>
+	<anim name="singDOWN" anim="Pico Down Note" x="-47" y="-277"/>
+	<anim name="singRIGHT" anim="Pico Note Right" x="69" y="-197"/>
+	<anim name="singLEFT" anim="Pico NOTE LEFT" x="-103" y="-212"/>
+	<anim name="singUP" anim="pico Up note" x="-52" y="-167"/>
+</character>

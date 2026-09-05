@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Pre-Show/Zaria" scale="1.2" icon="zariaicons" color="#A28492">
+	<anim name="idle" anim="idle"/>
+	<anim name="singUP" anim="up" x="78" y="-3"/>
+	<anim name="singDOWN" anim="down" x="-17" y="-19"/>
+	<anim name="singRIGHT" anim="right" x="-18" y="-10"/>
+	<anim name="singLEFT" anim="left" x="4" y="-15"/>
+</character>

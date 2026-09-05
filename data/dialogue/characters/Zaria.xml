@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="zaria" x="0" y="30" textSound="menu/scroll">
+	<anim name="normal" anim="zarianormal" fps="24" />
+</character>

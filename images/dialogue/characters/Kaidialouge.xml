@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kaidialouge.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cheer" x="0" y="0" width="360" height="395"/>
+	<SubTexture name="confused" x="360" y="0" width="290" height="378"/>
+	<SubTexture name="determined" x="650" y="0" width="290" height="378"/>
+	<SubTexture name="happy" x="940" y="0" width="290" height="378"/>
+	<SubTexture name="holdingnoteswowie" x="1230" y="0" width="290" height="395"/>
+	<SubTexture name="nervous" x="1520" y="0" width="290" height="378"/>
+	<SubTexture name="norm" x="0" y="395" width="290" height="378"/>
+	<SubTexture name="notesaregone" x="290" y="395" width="290" height="395"/>
+</TextureAtlas>

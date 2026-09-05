@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-week>
+<week name="The Main attraction" sprite="weekend" chars="menuimage">
+	<song>pre-show</song>
+	<song>opening-night</song>
+
+	<difficulty name="Normal"/>
+	<difficulty name="Electric"/>
+</week>

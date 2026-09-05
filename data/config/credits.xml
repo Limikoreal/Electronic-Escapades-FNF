@@ -1,0 +1,15 @@
+<!DOCTYPE codename-mod-credits>
+<menu name="Electronic Escapades" desc="Select to see all the amazing people who made this mod possible!">
+	<!-- Special thanks to zoyo and IsrealGPT for helping with the main menu. -->
+	<credit name="LimikoReal" desc="Creator, Director, Artist, Coder, Charter, and Animator (Made the main week and urban legend sprites. As well as doing bgs for the extra tracks)" icon="lime" size="130" url="https://x.com/LimikoReals"/>
+	<credit name="Zoyo14" desc="Director and Artist (Made the logo, several ui asssets, and the bg for Katelyn's week)" icon="zoyo" size="130" url="https://zoyo14.carrd.co/"/>
+	<credit name="Tri's Musical Mind" desc="Director, Artist, Charter, and Musician (Made Cybernetic, Streetside, OTP, Creaking Woods and helped with Ultraviolet (helped with the main menu code))" icon="tri" size="130" url="https://x.com/Zoyo140"/>
+	<credit name="JustSomeGuy" desc="Artist and Animator (Made almost everything for OTP and Creaking Woods. Also did the main menu.)" icon="jsg" size="130" url="https://x.com/justsomeguyJSG"/>
+	<credit name="No_Blanks" desc="Artist (Made these credit icons, and the Creaking Woods pause art.)" icon="blanks" size="130" url="https://x.com/No_Blanks_art"/>
+	<credit name="XolsBowls" desc="Charter and Icon Artist" icon="xol" size="130" url="https://x.com/xolsbowls"/>
+	<credit name="Felx Lamp" desc="Musician for Ultraviolet and Urban Legend" icon="felx" size="130" url="https://x.com/FelxLamp"/>
+	<credit name="CherrySaint" desc="Artist (Main Menu Portraits)" icon="alan" size="130" url="https://x.com/Michii_peachii"/>
+	<credit name="CinnamonKatArts" desc="Katelyn's VA!!" icon="alan" size="130" url="https://x.com/CinnamonKatArts"/>
+	<credit name="Tetrolt" desc="She was here! That's for sure!" icon="tetrolt" size="130" url="https://x.com/_tetrolt"/>
+	<credit name="ELE Twitter" desc="Follow us for updates on the mod's development." icon="eletwt" size="130" url="https://x.com/fnfvskatelyn"/>
+</menu>

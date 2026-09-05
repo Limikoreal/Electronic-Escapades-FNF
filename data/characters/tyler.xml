@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="OTP/realTyler" camx="-510" camy="-460" color="#F1F1F1" holdTime="6.1">
+	<anim name="idle" anim="idle" x="6"/>
+	<anim name="shocked" anim="shocked" x="4"/>
+	<anim name="shocked-loop" anim="shocked" x="4" loop="true" indices="12..18,20..44"/>
+	<anim name="death" anim="ded" x="554" y="521"/>
+	<anim name="singRIGHT" anim="right000" x="2" y="-9"/>
+	<anim name="singUP" anim="up000" x="48" y="92"/>
+	<anim name="singDOWN" anim="down000" x="11" y="-58"/>
+	<anim name="singLEFT" anim="left000" x="102" y="3"/>
+	<anim name="singRIGHTmiss" anim="rightMiss000" x="-13" y="-9"/>
+	<anim name="singUPmiss" anim="upmiss000" x="46" y="147"/>
+	<anim name="singDOWNmiss" anim="downmiss000" x="18" y="-58"/>
+	<anim name="singLEFTmiss" anim="missLEFT000" x="106" y="17"/>
+</character>

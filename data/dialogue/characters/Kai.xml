@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="kaidialouge" x="100" y="20" textSound="dialogue/Kai">
+	<anim name="normal" anim="norm" fps="24" />
+	<anim name="happy" anim="happy" fps="24" />
+	<anim name="holdingnotes" anim="holdingnoteswowie" fps="24" />
+	<anim name="notesaregone" anim="notesaregone" fps="24" />
+	<anim name="cheer" anim="cheer" fps="24" />
+	<anim name="confused" anim="confused" fps="24" />
+	<anim name="determined" anim="determined" fps="24" />
+	<anim name="nervous" anim="nervous" fps="24" />
+</character>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story mode.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="storymode idle" x="0" y="0" width="531" height="193"/>
+	<SubTexture name="storymode selected" x="0" y="193" width="531" height="193"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="KatelynKaiWeek/Katelyn_New" icon="Katelyn" color="#5E4F96">
+	<anim name="idle" anim="katelyn_idle"/>
+	<anim name="singDOWN" anim="katelyn_down" x="-50" y="-105"/>
+	<anim name="singRIGHT" anim="katelyn_right" x="-70" y="-20"/>
+	<anim name="singLEFT" anim="katelyn_left" x="186" y="-15"/>
+	<anim name="singUP" anim="katelyn_up" x="-5" y="30"/>
+	<anim name="amIdoingthisokay" anim="amIdoingthisokay" x="18" y="4"/>
+</character>

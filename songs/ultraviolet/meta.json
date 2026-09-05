@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#693E2F",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL",
+		"ELECTRIC"
+	],
+	"icon": "katelynkai",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Ultraviolet",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 170
+}

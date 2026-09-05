@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="KatelynKaiWeek/Katelyn/Katelyn_Assets_Nervous" icon="katelyn" color="#5E4F96">
+	<anim name="idle" anim="NervousIdle"/>
+	<anim name="singUP" anim="NervousUp" x="-5" y="10"/>
+	<anim name="singRIGHT" anim="NervousRight" x="-12" y="-5"/>
+	<anim name="singLEFT" anim="NervousLeft" x="36"/>
+	<anim name="singDOWN" anim="NervousDown" x="-6" y="-17"/>
+</character>

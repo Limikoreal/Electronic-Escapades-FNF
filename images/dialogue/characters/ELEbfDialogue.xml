@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ELEbfDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dumbass" x="0" y="0" width="266" height="304"/>
+	<SubTexture name="microphone" x="266" y="0" width="336" height="304"/>
+	<SubTexture name="normal" x="602" y="0" width="266" height="304"/>
+	<SubTexture name="yeah" x="0" y="304" width="266" height="304"/>
+</TextureAtlas>

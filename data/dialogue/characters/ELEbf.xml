@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="ELEbfDialogue" x="295" y="30" textSound="dialogue/BF">
+	<anim name="normal" anim="normal" fps="24" />
+	<anim name="microphone" anim="microphone" fps="24" />
+	<anim name="derpyass" anim="dumbass" fps="24" />
+	<anim name="yeah" anim="yeah" fps="24" />
+</character>

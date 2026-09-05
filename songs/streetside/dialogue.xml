@@ -1,0 +1,35 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="Katelyn" position="left" />
+	<char name="Kai" position="left" />
+	<char name="ELEgf" position="middle" />
+	<char name="ELEbf" position="right" />
+
+	<!-- Lines -->
+	<line char="Kai" changeDefAnim="happy" changeMusic="dialouge/theme">
+		Didn't think you had all that in you babe!
+	</line>
+	<line char="Katelyn" changeDefAnim="blush">
+		Gosh.. thank you hun..
+
+	</line>
+	<line char="Katelyn" changeDefAnim="curious">
+		I reckon the last time I sang was with Rachel..
+
+	</line>
+	<line char="Kai" changeDefAnim="curious">
+		Right, her n' Jake are an interesting bunch..
+
+	</line>
+	<line char="ELEbf" bubble="player" changeDefAnim="derpyass">
+		
+	</line>
+	<line char="Katelyn" bubble="opponent" changeDefAnim="confused">
+		. . .
+
+	</line>
+	<line char="Katelyn" changeDefAnim="excited">
+		Er, another round, then!
+	</line>
+</dialogue>

@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="OTP/kyleNew" flipX="true" camy="-100" isPlayer="true" icon="Kyle" color="#4A816C">
+	<anim name="idle" anim="idle0" x="-246" y="-26"/>
+	<anim name="idle-alt" anim="idleALT" x="-199" y="-29"/>
+	<anim name="singDOWN" anim="down0" x="-232" y="-42"/>
+	<anim name="downMISS" anim="downMISS" x="-224" y="-42"/>
+	<anim name="singUP" anim="up0" x="-184" y="88"/>
+	<anim name="singRIGHT" anim="right0" x="-294" y="2"/>
+	<anim name="singLEFT" anim="left0" x="-180" y="-1"/>
+	<anim name="grab" anim="grab0" x="-172" y="576"/>
+	<anim name="grabALT" anim="grabouch" x="-181" y="516"/>
+	<anim name="upMISS" anim="upMISS" x="-181" y="94"/>
+	<anim name="leftMISS" anim="leftMISS" x="-168" y="20"/>
+	<anim name="rightMISS" anim="rightMISS" x="-304" y="3"/>
+</character>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OTPlake.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="riveridle0000" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0001" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0002" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0003" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0004" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0005" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0006" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0007" x="0" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0008" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0009" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0010" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0011" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0012" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0013" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0014" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0015" x="1711" y="0" width="1711" height="537"/>
+	<SubTexture name="riveridle0016" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0017" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0018" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0019" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0020" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0021" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0022" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0023" x="0" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0024" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0025" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0026" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0027" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0028" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0029" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0030" x="1711" y="537" width="1711" height="537"/>
+	<SubTexture name="riveridle0031" x="1711" y="537" width="1711" height="537"/>
+</TextureAtlas>

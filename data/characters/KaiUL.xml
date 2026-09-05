@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="KatelynKaiWeek/Kai_ASSETS" icon="Kai" color="#693E2F">
+	<anim name="idle" anim="Kai_idleALT0"/>
+</character>

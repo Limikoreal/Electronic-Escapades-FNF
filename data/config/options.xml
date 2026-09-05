@@ -1,0 +1,4 @@
+<!DOCTYPE codename-mod-options>
+<menu name="ELE Options" desc="Modify ELE Options">
+	<checkbox id="ele_nocountdown" name="Disable Countdown" desc="Disables the countdown in the pause menu." />
+</menu>

@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#461634",
+	"opponentModeAllowed": false,
+	"icon": "damion",
+	"difficulties": [
+		"normal",
+		"electric"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Cherry Bomb",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

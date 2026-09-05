@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-week>
+<week name="The animal I've become." sprite="weekend" chars="menuimage">
+	<song>cherry-bomb</song>
+	<song>GUTS</song>
+
+	<difficulty name="Normal"/>
+	<difficulty name="Electric"/>
+</week>

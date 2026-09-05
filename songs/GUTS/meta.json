@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "alice",
+	"difficulties": [
+		"normal",
+		"electric"
+	],
+	"color": "#5E9055",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "GUTS",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

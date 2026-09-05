@@ -1,0 +1,16 @@
+{
+	"color": "#FFFFFF",
+	"customValues": {},
+	"opponentModeAllowed": true,
+	"icon": "tyler",
+	"difficulties": [
+		"NORMAL",
+		"ELECTRIC"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Off The Pufferfish",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 156
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/KatelynWeek/" name="City" zoom="0.6">
+	<sprite type="none" scale="1.2" sprite="bg-ground" name="groundbg"/>
+	<sprite type="none" scale="1.2" sprite="backoverlay" name="backoverlay"/>
+	<sprite x="-813.333333333324" scroll="0.5" sprite="sky" y="-526.666666666596" type="none" scale="1.2" name="sky"/>
+	<sprite x="-229.428090369282" scroll="0.6" sprite="trees" y="-376.708994863671" type="none" scale="1.05" angle="0.204025929014307" name="foliage"/>
+	<sprite x="-46.6969601306914" scroll="0.9" sprite="fence" y="-99.9803794736441" type="none" scale="1.2" name="fence"/>
+	<sprite x="-122.972388314685" scroll="0.7" sprite="bus-stop" y="-268.581891946812" type="none" scale="1.4" name="bus stop"/>
+	<girlfriend x="2007.79978737599" y="910.415757086737"/>
+	<boyfriend x="2174.00536214859" y="1131.48796232656"/>
+	<dad x="973.98920613615" y="993.184063125165"/>
+</stage>

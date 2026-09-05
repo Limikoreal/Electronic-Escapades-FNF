@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/OffThePufferfish/" startCamPosX="1100" name="mangrove" zoom="0.75">
+	<sprite scale="1.35" updateHitbox="true" sprite="OTPsky" name="OTPsky"/>
+	<sprite updateHitbox="true" scroll="0.9" sprite="OTPmountains" y="84" skewx="-0.01" scalex="1.31" scaley="1.4" name="OTPmountains"/>
+	<sprite x="125.981296173688" updateHitbox="true" y="921.082400267162" name="OTPlake" sprite="OTPlake" scroll="0.65" scalex="1.35" skewx="-7.31646398174001" scaley="1.71870936365333"/>
+	<sprite x="-175.225062323425" updateHitbox="true" scroll="0.6" sprite="OTPbackgroundlandscape" y="-568.152306272272" scale="1.35" name="OTPbackgroundlandscape"/>
+	<sprite x="-35.5937893548558" updateHitbox="true" sprite="OTPfloor" scalex="1.36853843195565" scaley="1.35" name="OTPfloor"/>
+	<player x="1407.54247233266" y="1833.87888390465"/>
+	<dad x="600" y="1700"/>
+	<girlfriend x="1153.44318806734" y="1426.10167471107"/>
+	<sprite x="27.5097976246766" updateHitbox="true" sprite="OTPoverlay" y="466.430679166017" scale="1.35" name="OTPoverlay"/>
+</stage>

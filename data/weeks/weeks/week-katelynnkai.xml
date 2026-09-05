@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-week>
+<week name="Unexpected Concert In Town" sprite="weekkatelyn" chars="menuimage">
+	<song>Cybernetic</song>
+	<song>Streetside</song>
+	<song>Ultraviolet</song>
+
+	<difficulty name="Normal"/>
+	<difficulty name="Electric"/>
+</week>

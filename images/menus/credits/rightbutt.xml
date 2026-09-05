@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rightbutt.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="right idle0000" x="0" y="0" width="141" height="229"/>
+	<SubTexture name="right select0000" x="141" y="0" width="141" height="229"/>
+</TextureAtlas>

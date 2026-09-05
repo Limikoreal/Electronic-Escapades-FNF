@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="KatelynKaiWeek/Katelyn/Katelyn_Assets_Remake" flipX="true" camx="250" camy="-80" isPlayer="true" icon="katelynUL" color="#603C6C" holdTime="6.1">
+	<anim name="idle" anim="Katelynidle" x="-2" y="18"/>
+	<anim name="singDOWN" anim="Katelyn_down0" x="-34" y="-85"/>
+	<anim name="singLEFT" anim="Katelyn_left0" x="184" y="8"/>
+	<anim name="singUP" anim="Katelyn_up0" x="-11" y="9"/>
+	<anim name="singRIGHT" anim="Katelyn_right0" x="-27" y="-16"/>
+	<anim name="singUPmiss" anim="Katelyn_up_MISS" x="-6" y="14"/>
+	<anim name="singDOWNmiss" anim="Katelyn_down_MISS" x="-36" y="-85"/>
+	<anim name="singLEFTmiss" anim="Katelyn_right_MISS" x="12" y="-15"/>
+	<anim name="singRIGHTmiss" anim="Katelyn_left_MISS" x="167" y="12"/>
+</character>

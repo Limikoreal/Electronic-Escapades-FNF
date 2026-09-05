@@ -1,0 +1,55 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="Katelyn" position="left" />
+	<char name="Kai" position="left" />
+	<char name="ELEgf" position="middle" />
+	<char name="ELEbf" position="right" />
+	<char name="Tyler" position="middle" />
+	<char name="Zaria" position="left" />
+
+	<!-- Lines -->
+	<line char="Kai" changeDefAnim="happy" changeMusic="dialouge/theme">
+		Alright, I'm sick of letting you two hog the mics!
+	</line>
+	<line char="ELEgf" bubble="player">
+		The more the merrier, hehe..
+
+	</line>
+	<line char="ELEbf" changeDefAnim="yeah">
+		
+
+	</line>
+	<line char="Katelyn" bubble="opponent" changeDefAnim="excited">
+		Hell yeah, me n' Kai against Boyfriend, we got it!
+
+	</line>
+	<line char="Kai" changeDefAnim="determined">
+		Let's do this!
+
+	</line>
+	<line>
+		At the news station...
+
+	</line>
+	<line char="Zaria">
+		Slow day, huh?
+
+	</line>
+	<line char="Tyler" changeDefAnim="normal">
+		Saw a concert in town, some community thing, I guess.
+
+	</line>
+	<line char="Zaria">
+		Go on...
+
+	</line>
+	<line char="Tyler">
+		Two couples duking it out, potential for an interview or two.
+
+	</line>
+	<line char="Zaria">
+		Eh, let's hit it, we got about an hour before we're on air again.
+
+	</line>
+</dialogue>

@@ -1,0 +1,16 @@
+{
+	"color": "#5E4F96",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "katelyn",
+	"difficulties": [
+		"NORMAL",
+		"ELECTRIC"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Streetside",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 156
+}

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="KatelynKaiWeek/BoyfriendELEDeath" flipX="true" isPlayer="true" icon="bfdead">
+	<anim name="firstDeath" anim="death0"/>
+	<anim name="deathLoop" anim="deathloop0" x="2" y="-11" loop="true"/>
+	<anim name="deathConfirm" anim="deathconfirm0" x="62" y="-17"/>
+</character>

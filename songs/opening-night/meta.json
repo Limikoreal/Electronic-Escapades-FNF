@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#8F3B2D",
+	"opponentModeAllowed": false,
+	"icon": "rachel_p",
+	"difficulties": [
+		"normal",
+		"electric"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Opening Night",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

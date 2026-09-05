@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="BoyfriendELE" flipX="true" camx="-100" camy="-150" isPlayer="true" icon="burps_" color="#029EFF">
+	<anim name="idle" anim="bf_idlereal"/>
+	<anim name="singDOWN" anim="bf_down0" x="21" y="-13"/>
+	<anim name="singRIGHT" anim="bf_left0" x="-17" y="2"/>
+	<anim name="singLEFT" anim="bf_right0" x="51" y="-3"/>
+	<anim name="singUP" anim="bf_up0" x="5" y="35"/>
+	<anim name="singDOWNmiss" anim="bf_downmiss" x="31" y="-13"/>
+	<anim name="singRIGHTmiss" anim="bf_leftmiss" x="-17" y="5"/>
+	<anim name="singLEFTmiss" anim="bf_rightmiss" x="50" y="-3"/>
+	<anim name="singUPmiss" anim="bf_upmiss" x="7" y="37"/>
+</character>

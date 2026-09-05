@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="katelyndialouge" x="90" y="30" textSound="dialogue/Katelyn">
+	<anim name="normal" anim="norm" fps="24" />
+	<anim name="excited" anim="excited" fps="24" />
+	<anim name="nervous" anim="nervous" fps="24" />
+	<anim name="confused" anim="confused" fps="24" />
+	<anim name="curious" anim="curious" fps="24" />
+	<anim name="shocked" anim="shocked" fps="24" />
+	<anim name="runningaway" anim="runningaway" fps="24" />
+	<anim name="exhausted" anim="exhausted" fps="24" />
+</character>

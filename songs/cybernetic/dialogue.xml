@@ -1,0 +1,114 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="Katelyn" position="left" />
+	<char name="Kai" position="left" />
+	<char name="ELEgf" position="middle" />
+	<char name="ELEbf" position="right" />
+
+	<!-- Lines -->
+	<line char="Kai" changeDefAnim="happy" changeMusic="dialouge/theme">
+		- so the research I was talking about, some weird, swamp-dwelling species..
+	</line>
+	<line char="Katelyn" changeDefAnim="curious">
+		Really? Tell me about it hun!
+
+	</line>
+	<line char="Kai">
+		Some strange fish, almost oarfish-like..
+
+	</line>
+	<line char="Kai" changeDefAnim="holdingnotes">
+		- wait, hold on, I have notes on it somewh-
+
+	</line>
+	<line char="Kai" changeDefAnim="notesaregone">
+		GAH! MY PAPERS!
+
+	</line>
+	<line char="Katelyn" changeDefAnim="runningaway">
+		I got it I got it!
+
+	</line>
+	<line>
+
+	</line>
+	<line>
+		Some time later...
+
+	</line>
+	<line char="Katelyn" changeDefAnim="exhausted">
+		Huff.. Sorry hun, couldn't - huff.. find it..
+
+	</line>
+	<line char="Kai" changeDefAnim="nervous">
+		Gah, it's fine.. I'll just reprin-
+
+	</line>
+	<line char="Kai" changeDefAnim="confused">
+		- huh.. That bus line, haven't seen it around before..
+
+	</line>
+	<line char="Katelyn">
+		Me either, weird. 
+
+	</line>
+	<line char="Katelyn" changeDefAnim="excited">
+		Reckon we should see who's coming, eh?
+
+	</line>
+	<line char="Kai" changeDefAnim="nervous">
+		I mean..
+
+	</line>
+	<line char="Kai" changeDefAnim="determined">
+		Sure, not like there's shitelse to do here.. let's go!
+
+	</line>
+	<line>
+
+	</line>
+	<line char="Katelyn" changeDefAnim="happy">
+		Hey! Nice to meet you folk.
+
+	</line>
+	<line char="ELEbf" bubble="player">
+		
+	</line>
+	<line char="ELEgf" changeDefAnim="normal">
+		Sorry, hehe.. he's boyfriend, and I'm Girlfriend!
+
+	</line>
+	<line char="Katelyn" bubble="opponent" changeDefAnim="curious">
+		Boyfriend n' Girlfriend, she says.. 
+
+	</line>
+	<line char="Katelyn" changeDefAnim="normal">
+		I'm Katelyn, and this is Kai, nice to meet you guys!
+
+	</line>
+	<line char="ELEbf" bubble="player" changeDefAnim="microphone">
+		(holds out microphone)
+
+	</line>
+	<line char="Katelyn" bubble="opponent" changeDefAnim="confused">
+		Eh? You wanna sing?
+
+	</line>
+	<line char="Kai" changeDefAnim="normal">
+		Not much of a singer, sorry, Katelyn'll gladly do one though!
+
+	</line>
+	<line char="Katelyn" changeDefAnim="shocked">
+		I will?????
+
+	</line>
+	<line char="ELEgf" bubble="player" changeDefAnim="boombox">
+		Wanna start us off?
+
+	</line>
+	<line char="Katelyn" bubble="opponent" changeDefAnim="nervous">
+		Oh.. so I guess I don't mind..
+
+	</line>
+</dialogue>

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="ELEgfdialogue" x="0" y="30" textSound="dialogue/GF">
+	<anim name="normal" anim="normal" fps="24" />
+	<anim name="boombox" anim="boombox" fps="24" />
+</character>

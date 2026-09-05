@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="850" startCamPosY="902" folder="stages/UrbanLegend/" zoom="0.87" name="field">
+	<sprite x="-722.85162431481" updateHitbox="true" y="-466.137095427677" name="ULSky" sprite="ULSky" scroll="0.3" scalex="1.22351076416816" skewx="-1.66486572062763e-05" scaley="1.20960893562434"/>
+	<sprite x="-441.32398795019" updateHitbox="true" y="-144.541575606677" name="ULhorizon" sprite="ULhorizon" scroll="0.45" alpha="0.86" scalex="1.25771185744599" skewx="0.551724137931033" scaley="1.06654567453116"/>
+	<sprite x="-420.707963143508" y="-593.81167379632" type="none" angle="2.25" name="sun" sprite="ULsun" scroll="0.4" scalex="0.96" scaley="0.94"/>
+	<sprite x="-176.121116671011" updateHitbox="true" y="106.647244148738" name="ULpath" sprite="ULpath" scroll="0.6" scalex="1.02888866689796" skewx="-5.26672580396665" scaley="0.757782552211206"/>
+	<sprite x="125.525646664509" y="104.683388187483" type="none" name="ULtree2" sprite="ULtree2" scroll="0.7" scalex="1.06573826362049" skewx="3.93658259029419" scaley="1.01799328143305"/>
+	<sprite x="-295.309158474223" updateHitbox="true" y="3.28982196941611" name="ULtree1" sprite="ULtree1" scroll="0.8" scalex="1.1" skewx="0.0820128044048738" scaley="1.3056704307387"/>
+	<sprite x="-9.19561291958633" updateHitbox="true" y="257.627373066305" name="ULbush2" sprite="ULbush2" scroll="0.98" scalex="1.16" skewx="1.36544757746368" scaley="1.02566630784706"/>
+	<sprite x="-153.641044537613" updateHitbox="true" sprite="ULfloor" y="143.108311057733" scalex="1.25106568856371" scaley="1.16" name="ULfloor"/>
+	<gf x="605.365121297583" scroll="1" y="946.866988735282"/>
+	<player x="400.358207399024" y="894.893863949376"/>
+	<sprite x="1660" sprite="ThysslingBrute" y="835" type="beat" angle="1.28" name="The brute"/>
+	<dad x="1368.01846518911" y="787.574152203183"/>
+	<sprite x="-389.38977004689" updateHitbox="true" y="109.277893863613" name="ULbush1" sprite="ULbush1" scroll="0.7" scalex="1.14" skewx="-7.80255758550673" scaley="1.24266523138825"/>
+	<sprite x="6" updateHitbox="true" sprite="ULoverlay" y="156" alpha="0.38" scale="1.2" name="ULoverlay"/>
+</stage>

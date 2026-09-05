@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="Tyler" x="0" y="30" textSound="dialogue/Tyler">
+	<anim name="normal" anim="Tylernorm" fps="24" />
+</character>

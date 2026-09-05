@@ -1,0 +1,16 @@
+{
+	"color": "#4E7669",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "dairek",
+	"difficulties": [
+		"NORMAL",
+		"ELECTRIC"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Urban Legend",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 142
+}
