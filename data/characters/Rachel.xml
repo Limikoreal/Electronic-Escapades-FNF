@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="OpeningNight/Rachelwoawsocool" icon="Rachel_p" color="#8F3B2D">
+	<anim name="idle" anim="Rachel_idle_waow"/>
+	<anim name="singDOWN"/>
+	<anim name="singRIGHT"/>
+	<anim name="singLEFT"/>
+	<anim name="singUP"/>
+</character>

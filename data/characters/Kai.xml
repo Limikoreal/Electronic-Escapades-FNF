@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-700" y="120" sprite="Kai_ELE" icon="katelynkai" color="#5E4F96">
+<character x="-700" y="120" sprite="KatelynKaiWeek/Kai_ELE" icon="katelynkai" color="#5E4F96">
 	<anim name="danceLeft" anim="Kai_Idle" indices="1..12"/>
 	<anim name="danceRight" anim="Kai_Idle" indices="15..28"/>
 	<anim name="singDOWN" anim="Kai_down" x="-2"/>

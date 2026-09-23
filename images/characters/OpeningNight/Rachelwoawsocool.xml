@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rachelwoawsocool.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rachel_idle_waow0000" x="0" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0001" x="0" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0002" x="382" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0003" x="382" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0004" x="764" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0005" x="764" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0006" x="1146" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0007" x="1146" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0008" x="1528" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0009" x="1528" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0010" x="1528" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0011" x="1528" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0012" x="1528" y="0" width="382" height="727"/>
+	<SubTexture name="Rachel_idle_waow0013" x="1528" y="0" width="382" height="727"/>
+</TextureAtlas>
