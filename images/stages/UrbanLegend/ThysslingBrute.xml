@@ -2,18 +2,18 @@
 <TextureAtlas imagePath="ThysslingBrute.png">
 	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Bruteanim0000" x="0" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0001" x="0" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0002" x="444" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0003" x="444" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0004" x="888" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0005" x="888" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0006" x="1332" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0007" x="1332" y="0" width="444" height="622"/>
-	<SubTexture name="Bruteanim0008" x="0" y="622" width="444" height="622"/>
-	<SubTexture name="Bruteanim0009" x="0" y="622" width="444" height="622"/>
-	<SubTexture name="Bruteanim0010" x="0" y="622" width="444" height="622"/>
-	<SubTexture name="Bruteanim0011" x="0" y="622" width="444" height="622"/>
-	<SubTexture name="Bruteanim0012" x="0" y="622" width="444" height="622"/>
-	<SubTexture name="Bruteanim0013" x="0" y="622" width="444" height="622"/>
+	<SubTexture name="Bruteanim0000" x="0" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0001" x="0" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0002" x="434" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0003" x="434" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0004" x="868" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0005" x="868" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0006" x="1302" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0007" x="1302" y="0" width="434" height="619"/>
+	<SubTexture name="Bruteanim0008" x="0" y="619" width="434" height="619"/>
+	<SubTexture name="Bruteanim0009" x="0" y="619" width="434" height="619"/>
+	<SubTexture name="Bruteanim0010" x="434" y="619" width="434" height="619"/>
+	<SubTexture name="Bruteanim0011" x="434" y="619" width="434" height="619"/>
+	<SubTexture name="Bruteanim0012" x="0" y="619" width="434" height="619"/>
+	<SubTexture name="Bruteanim0013" x="0" y="619" width="434" height="619"/>
 </TextureAtlas>

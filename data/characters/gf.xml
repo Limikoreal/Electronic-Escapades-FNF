@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="gfELE" camx="-200" camy="-100" icon="gf">
+<character sprite="gfELE" camx="-200" camy="20">
 	<anim name="idle" anim="gf_idleplayer"/>
 	<anim name="transition" anim="gf_idletransopp"/>
 	<anim name="idle-alt" anim="gf_idleopp"/>

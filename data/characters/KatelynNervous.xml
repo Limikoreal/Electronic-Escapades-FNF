@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="KatelynKaiWeek/Katelyn/Katelyn_Assets_Nervous" icon="katelyn" color="#5E4F96">
-	<anim name="idle" anim="NervousIdle"/>
-	<anim name="singUP" anim="NervousUp" x="-5" y="10"/>
-	<anim name="singRIGHT" anim="NervousRight" x="-12" y="-5"/>
-	<anim name="singLEFT" anim="NervousLeft" x="36"/>
-	<anim name="singDOWN" anim="NervousDown" x="-6" y="-17"/>
+<character sprite="KatelynKaiWeek/Katelyn_Assets_Nervous" camy="20" icon="katelyn" color="#5E4F96">
+	<anim name="idle" anim="katelynN_idle"/>
+	<anim name="singUP" anim="Nerv_Up" x="-15" y="10"/>
+	<anim name="singRIGHT" anim="Nerv_right" x="-7"/>
+	<anim name="singLEFT" anim="Nerv_left" x="11"/>
+	<anim name="singDOWN" anim="Nerv_down" x="13" y="-2"/>
 </character>

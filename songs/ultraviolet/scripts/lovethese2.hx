@@ -9,10 +9,12 @@ function postCreate(){
     van.visible = false;
 }
 
+function onCountdown(){
+    camHUD.alpha = 0;
+}
+
 function stepHit(curStep) {
 	switch(curStep){
-        case 0:
-			FlxTween.tween(camHUD, {alpha: 0.001}, (Conductor.stepCrochet / 1000) * 2);
         case 80:
             FlxTween.tween(camHUD, {alpha: 1}, (Conductor.stepCrochet / 100) * 2);
         case 1148:

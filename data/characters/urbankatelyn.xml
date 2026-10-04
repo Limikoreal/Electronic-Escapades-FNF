@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="KatelynKaiWeek/Katelyn/Katelyn_Assets_Remake" flipX="true" camx="250" camy="-80" isPlayer="true" icon="katelynUL" color="#603C6C" holdTime="6.1">
+<character sprite="KatelynKaiWeek/Katelyn_Assets_Remake" flipX="true" camx="250" camy="-80" isPlayer="true" icon="katelynUL" color="#603C6C" holdTime="6.1">
 	<anim name="idle" anim="Katelynidle" x="-2" y="18"/>
 	<anim name="singDOWN" anim="Katelyn_down0" x="-34" y="-85"/>
 	<anim name="singLEFT" anim="Katelyn_left0" x="184" y="8"/>

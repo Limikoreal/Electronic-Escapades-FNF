@@ -29,7 +29,6 @@ var goBack:FlxSound = FlxG.sound.load(Paths.sound('menu/cancel'));
 
  function create() {
 	playLoopedSong();
-
     menucam = new FlxCamera();
     menucam.bgColor = 0;
     FlxG.cameras.add(menucam, true);

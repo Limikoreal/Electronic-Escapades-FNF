@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="KatelynKaiWeek/Katelyn_New" icon="Katelyn" color="#5E4F96">
+<character sprite="KatelynKaiWeek/Katelyn_New" camy="-20" color="#5E4F96">
 	<anim name="idle" anim="katelyn_idle"/>
 	<anim name="singDOWN" anim="katelyn_down" x="-50" y="-105"/>
 	<anim name="singRIGHT" anim="katelyn_right" x="-70" y="-20"/>
